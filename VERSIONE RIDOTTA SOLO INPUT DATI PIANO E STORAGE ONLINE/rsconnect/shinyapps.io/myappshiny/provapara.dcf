@@ -1,0 +1,13 @@
+name: provapara
+title: provapara
+username:
+account: myappshiny
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 370041
+bundleId: 1456331
+url: https://myappshiny.shinyapps.io/provapara/
+when: 1530281721.71297
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .httr-oauth|process.R

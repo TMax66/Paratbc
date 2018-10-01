@@ -1,0 +1,13 @@
+name: paraApp
+title: paraApp
+username:
+account: myappshiny
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 370239
+bundleId: 1458061
+url: https://myappshiny.shinyapps.io/paraApp/
+when: 1530369716.34967
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: process.R

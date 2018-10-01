@@ -1,0 +1,13 @@
+name: paratbc
+title: paratbc
+username:
+account: myappshiny
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 369253
+bundleId: 1454194
+url: https://myappshiny.shinyapps.io/paratbc/
+when: 1530188489.1783
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: process.R
